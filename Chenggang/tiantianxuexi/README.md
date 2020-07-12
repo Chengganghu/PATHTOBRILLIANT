@@ -1,5 +1,11 @@
-# 天天学习好好向上
-这个文件夹纪录每天的学习进展，以Markdown文件形式保存下来，知识点主要包含java，数据库，网络，前端框架等等，后期记录成规模后，在此界面加入目录，以方便查看。
-
-# Good Luck
-
+# 2019chunzhao
+![](https://github.com/Chengganghu/2019chunzhao/blob/master/img/bonnechance.jpg)  
+- [数据库索引 volatile](https://github.com/Chengganghu/2019chunzhao/blob/master/4_25.md)  
+- [数据库四大特性 隔离级别](https://github.com/Chengganghu/2019chunzhao/blob/master/4_26.md)
+- [设计模式](https://github.com/Chengganghu/2019chunzhao/blob/master/4_29.md)
+- [线程池 进程和线程](https://github.com/Chengganghu/2019chunzhao/blob/master/4_30.md)
+- [Future Callable 线程安全的类集](https://github.com/Chengganghu/2019chunzhao/blob/master/5_2.md)
+- [内存回收](https://github.com/Chengganghu/2019chunzhao/blob/master/5_3.md)
+- [三次握手 四次挥手](https://github.com/Chengganghu/2019chunzhao/blob/master/5_7.md)
+- [JUC辅助类](https://github.com/Chengganghu/2019chunzhao/blob/master/5_14.md)
+- [Annotation](https://github.com/Chengganghu/2019chunzhao/blob/master/5_17.md)
