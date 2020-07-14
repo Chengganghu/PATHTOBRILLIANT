@@ -1,6 +1,6 @@
 # JVM
 
-![](https://github.com/Chengganghu/2019chunzhao/blob/master/img/jvm.png)  
+![](https://github.com/Chengganghu/PATHTOBRILLIANT/blob/master/Chenggang/tiantianxuexi/img/jvm.png)  
 
 ## 1.对象创建
 
