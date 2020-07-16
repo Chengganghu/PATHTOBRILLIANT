@@ -1,13 +1,30 @@
 package com.company;
 
+import com.company.offer.FindRepeatNum;
+
 public class Main {
 
     public static void main(String[] args) {
         // reverse list test
-        ListNode head = createList();
-        displayList(head);
-        ListNode reversed = ReverseList.reverseList(head);
-        displayList(reversed);
+        if (false) {
+            ListNode head = createList();
+            displayList(head);
+            ListNode reversed = ReverseList.reverseList(head);
+            displayList(reversed);
+        }
+
+        // find repeat number
+        if (false) {
+            int nums[] = {2, 3, 1, 0, 2, 5, 3};
+            FindRepeatNum.findRepeatNum2(nums);
+        }
+
+        // traverse tree
+        if (true) {
+            TreeNode root = CreateTree.create();
+            TraverseTree.midOrderRecursion(root);
+        }
+
     }
 
 

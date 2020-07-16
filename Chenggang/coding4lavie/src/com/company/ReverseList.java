@@ -1,5 +1,7 @@
 package com.company;
 
+import java.util.Stack;
+
 public class ReverseList {
 
     public static ListNode reverseList(ListNode input) {
@@ -12,4 +14,5 @@ public class ReverseList {
         input.next = null;
         return output;
     }
+
 }
