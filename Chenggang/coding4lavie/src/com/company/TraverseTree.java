@@ -45,9 +45,12 @@ public class TraverseTree {
             TreeNode cur = root;
             stack.push(cur);
             while (!stack.isEmpty()) {
-                visit(cur);
-                stack.push(cur.left);
-                stack.push(cur.right);
+                cur = stack.pop();
+                if (cur != null) {
+                    visit(cur);
+                    stack.push(cur.right);
+                    stack.push(cur.left);
+                }
             }
         }
     }
