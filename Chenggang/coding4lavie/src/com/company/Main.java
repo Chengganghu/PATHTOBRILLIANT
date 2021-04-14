@@ -22,7 +22,7 @@ public class Main {
         // traverse tree
         if (true) {
             TreeNode root = CreateTree.create();
-            TraverseTree.preOrder(root);
+            TraverseTree.zigzag(root);
         }
 
     }
